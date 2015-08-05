@@ -1,0 +1,39 @@
+#head { background: url(../images/bg.jpg) no-repeat 0px 0px; position: relative; }
+#layout2 #content #rightdiv #textcontent #text h3 { color: #cab393; }
+#head #head-content { width: 1200px; margin: auto; height: 634px; clear:both; position:relative; }
+#head #head-content #headleft { width: 850px; float: left; line-height: 2.5em; }
+#head, #layout1, #layout2, #layout3 { height: 100%; min-height:668px; }
+#layout2 { background: #1A1A1A; }
+#head #head-content #headright { width: 350px; margin-left: 850px; }
+#store { padding: 14em 0em 0em; }
+#head #head-content #headleft img { display: block; padding-top: 1em; padding-bottom: 1em; }
+#phone { margin: 0px; height: 668px; width: 334px; float: left; }
+#logotitle { height: 300px; width: 626px; padding-top: 70px; }
+#phone img { height: 479px; width: 269px; padding-top: 93px; padding-left: 32px; }
+#layout1 #phone { background: url(../images/iphone_03.png) no-repeat 0px 0px; }
+#layout2 #phone { background: url(../images/iphone_06.png) no-repeat 0px 0px; }
+#layout3 #phone { background: url(../images/iphone_03.png) no-repeat 0px 0px; }
+#content { height: 668px; width: 960px; margin-right: auto; margin-left: auto;
+  clear:both;
+  position:relative;
+  }
+#rightdiv { height: 668px; width: 626px; padding-left: 343px; }
+#layout1 #content #rightdiv #textcontent #img { height: 200px; width: 100px; background: url(../images/logo_03.png) no-repeat 10px 20px; float: left; border-right: 3px solid #cab393; }
+#layout2 #content #rightdiv #textcontent #img { height: 200px; width: 100px; background: url(../images/logo_06.png) no-repeat 10px 20px; float: left; border-right: 3px solid #cab393; }
+#layout3 #content #rightdiv #textcontent #img { height: 200px; width: 100px; background: url(../images/logo_08.png) no-repeat 10px 20px; float: left; border-right: 3px solid #cab393; }
+h3 { font-family: "黑体"; font-size: 30px; }
+p { font-family: "黑体"; font-size: 20px; }
+#text { height: 250px; width: 523px; padding-left: 133px; }
+#h1 { font-size: 60px; color: #CAB393; font-family: Arial; float: left; width: 240px; padding-left: 40px; font-weight: lighter; }
+#h2 { font-size: 18px; color: #cab393; width: 21px; font-family: "微软雅黑"; padding-top: 7px; padding-left: 300px; display: block; font-weight: bold; }
+#textcontent { margin: 0px; height: 334px; width: 626px; }
+#foot .email { margin-right: auto; margin-left: auto; font-size: 20px; text-align: center; padding-bottom:10px; }
+#foot .reserved { background: #CCC; height: 50px; width: 100%; margin: 0px; padding-top: 10px; text-align: center; font-size: 15px; }
+#foot { width: 100%; margin-right: auto; margin-left: auto; position: absolute; bottom: 0px; }
+.section3 #layout2 #content #rightdiv #textcontent #text p { color: #cab393; }
+.floater {
+    float:left; 
+    height:50%; 
+}
+#head .floater { margin-bottom:-317px; }
+#layout1 .floater, #layout2 .floater, #layout3 .floater { margin-bottom:-334px; }
